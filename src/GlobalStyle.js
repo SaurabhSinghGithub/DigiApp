@@ -68,7 +68,7 @@ a{
 
 .container {
     max-width: 120rem;
-    margin: 0 auto;
+    margin: 10rem auto;
 }
 
 .flex {
